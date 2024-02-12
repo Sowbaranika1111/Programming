@@ -20,3 +20,13 @@ Switch Statement:
 
 Nested If Statement:
 7) Write a C program that reads three numbers from the user and prints the largest number using nested if statements.
+
+Codes and Results screenshots: 
+Q1 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q1.jpg
+Q2 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q2.jpg
+Q3 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q3.jpg
+Q4 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q4.jpg
+Q5 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q5.jpg
+Q6 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q6.jpg
+Q6Result - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q6Result.jpg
+Q7 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q7.jpg
