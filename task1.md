@@ -9,7 +9,7 @@ On day 1 of the training I have completed problems in **_C PROGRAMMING_**
 <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/sumOf2Numbers.jpg">
 
 - [x] Write a C Program to find the largest element in an array of integers
-  <img src="/c/codedResultsScreenshots/largeElesInAnArray.jpg">
+  <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/largeElesInAnArray.jpg">
 
  
 - [x] Write a > C Program to display the multiplication table of a given number using a for loop.
