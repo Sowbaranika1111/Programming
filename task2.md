@@ -23,6 +23,7 @@ Write a JavaScript program that prompts the user to enter their age. If the age 
 
 - [x] While Loop:
 Write a JavaScript program to find the largest number in an array using a while loop.
+<img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/task2largeNumInArrayInputOutput.jpg">
 
 - [x] Switch Statement:
 Question: Write a JavaScript program that prompts the user to enter a month number (1-12). Using a switch statement, display the name of the corresponding month.
