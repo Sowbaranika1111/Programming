@@ -16,7 +16,7 @@ On day 1 of the training I have completed problems in **_C PROGRAMMING_**
    <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/multiplicationOfANum.jpg">
 
  - [x] Write a C program that reads an integer from the user and prints "Positive" if it's greater than zero, "Negative" if it's less than zero, and "Zero" if it's equal to zero.
-   <img src="/c/codedResultsScreenshots/posiNegOrZero.jpg">
+   <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/posiNegOrZero.jpg">
 
 - [x] Write a C program to find the factorial of a given number using a while loop.
    <img src="/c/codedResultsScreenshots/factorial.jpg">
