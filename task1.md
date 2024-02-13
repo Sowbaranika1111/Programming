@@ -1,41 +1,29 @@
-I have completed the problems in c programming
-Topics covered and questions answered:
+# Task1 :sparkles:
+On day 1 of the training I have completed problems in **_C PROGRAMMING_**
 
-C Basics:
-1) Write a C program that asks the user to enter two numbers and then prints their sum.
+### Topics covered and  Questions answered
 
-Arrays:
-2) Write a C program to find the largest element in an array of integers.
+## C BASICS
 
-For Loop:
-3) Write a C program to display the multiplication table of a given number using a for loop.
+- [x]  Write a C program that asks the user enters two numbers and print their sum.
+<img src="/c/codedResultsScreenshots/sumOf2Numbers.jpg">
 
-If Statement:
-4) Write a C program that reads an integer from the user and prints "Positive" if it's greater than zero, "Negative" if it's less than zero, and "Zero" if it's equal to zero.
+- [x] Write a C Program to find the largest element in an array of integers
+  <img src="/c/codedResultsScreenshots/largeElesInAnArray.jpg">
 
-While Loop:
-5) Write a C program to find the factorial of a given number using a while loop.
+ 
+- [x] Write a > C Program to display the multiplication table of a given number using a for loop.
+   <img src="/c/codedResultsScreenshots/multiplicationOfANum.jpg">
 
-Switch Statement:
-6) Write a C program to input a number (1-7) from the user and print the corresponding day of the week using a switch statement.
+ - [x] Write a C program that reads an integer from the user and prints "Positive" if it's greater than zero, "Negative" if it's less than zero, and "Zero" if it's equal to zero.
+   <img src="/c/codedResultsScreenshots/posiNegOrZero.jpg">
 
-Nested If Statement:
-7) Write a C program that reads three numbers from the user and prints the largest number using nested if statements.
+- [x] Write a C program to find the factorial of a given number using a while loop.
+   <img src="/c/codedResultsScreenshots/factorial.jpg">
 
-Codes and Results screenshots: 
+- [x] Write a C program to input a number (1-7) from the user and print the corresponding day of the week using a switch statement.
+   <img src="/c/codedResultsScreenshots/dayOfWeekResult.jpg">
+   <img src="/c/codedResultsScreenshots/dayOfWeekResult.jpg">
 
-Q1 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q1.jpg
-
-Q2 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q2.jpg
-
-Q3 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q3.jpg
-
-Q4 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q4.jpg
-
-Q5 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q5.jpg
-
-Q6 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q6.jpg
-
-Q6Result - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q6Result.jpg
-
-Q7 - https://github.com/Sowbaranika-G-002/Programming/blob/main/Q7.jpg
+ - [x] Write a C program that reads three numbers from the user and prints the largest number using nested if statements.
+   <img src="/c/codedResultsScreenshots/largeNumAmong3.jpg">
