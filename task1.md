@@ -19,11 +19,11 @@ On day 1 of the training I have completed problems in **_C PROGRAMMING_**
    <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/posiNegOrZero.jpg">
 
 - [x] Write a C program to find the factorial of a given number using a while loop.
-   <img src="/c/codedResultsScreenshots/factorial.jpg">
+   <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/factorial.jpg">
 
 - [x] Write a C program to input a number (1-7) from the user and print the corresponding day of the week using a switch statement.
-   <img src="/c/codedResultsScreenshots/dayOfWeekResult.jpg">
-   <img src="/c/codedResultsScreenshots/dayOfWeekResult.jpg">
+   <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/dayOfWeek.jpg">
+   <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/dayOfWeekResult.jpg">
 
  - [x] Write a C program that reads three numbers from the user and prints the largest number using nested if statements.
-   <img src="/c/codedResultsScreenshots/largeNumAmong3.jpg">
+   <img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/largeNumAmong3.jpg">
