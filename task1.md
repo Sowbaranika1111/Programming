@@ -6,7 +6,7 @@ On day 1 of the training I have completed problems in **_C PROGRAMMING_**
 ## C BASICS
 
 - [x]  Write a C program that asks the user enters two numbers and print their sum.
-<img src="[/c/codedResultsScreenshots/sumOf2Numbers](https://github.com/Sowbaranika-G-002/Programming/blob/main/sumOf2Numbers.jpg).jpg">
+<img src="https://github.com/Sowbaranika-G-002/Programming/blob/main/sumOf2Numbers.jpg">
 
 - [x] Write a C Program to find the largest element in an array of integers
   <img src="/c/codedResultsScreenshots/largeElesInAnArray.jpg">
