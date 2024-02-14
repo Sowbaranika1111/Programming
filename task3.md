@@ -31,4 +31,4 @@ Question: Write a PHP script that takes a number (1-7) as input and prints the c
 
  - [x] Nested If Statement:
 Question: Write a PHP script that asks the user to input their age. Then, based on their age, print different messages using nested if statements (e.g., "You're a child", "You're a teenager", "You're an adult").
-<img src="https://github.com/Sowbaranika1111/Programming/blob/main/task3age.jpg">
+<img src="https://github.com/Sowbaranika1111/Programming/blob/main/task3Age.jpg">
